@@ -1,7 +1,7 @@
 #!/bin/bash
 
-DOMAIN="n8n.leisuresafar.com"
-EMAIL="Hedayatcore@gmail.com"
+DOMAIN="automate.leisuresafar.com"
+EMAIL="hedayatcore@gmail.com"
 N8N_DIR="/home/ubuntu/n8n-server"
 
 echo "📦 Updating system..."
